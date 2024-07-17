@@ -2,11 +2,11 @@ Project Name: Task Manager App
 
 Table of Contents
 
--Introduction
+- Introduction
 
--Features
+- Features
 
--How to Use
+- How to Use
 
 
 Introduction 
@@ -18,13 +18,13 @@ Features
 
 The Task Manager App allows users to:
 
--Add Tasks: Users can create new tasks by entering a title and description, and then clicking the Add Task button.
+- Add Tasks: Users can create new tasks by entering a title and description, and then clicking the Add Task button.
 
--Edit Tasks: Users can update the task title and description by clicking the edit icon button. This will display the current details, which can then be modified.
+- Edit Tasks: Users can update the task title and description by clicking the edit icon button. This will display the current details, which can then be modified.
 
--Delete Tasks: Users can remove tasks by clicking the delete icon button.
+- Delete Tasks: Users can remove tasks by clicking the delete icon button.
 
--View Tasks: Users can see a list of their tasks with an option to view more details by selecting a specific task.
+- View Tasks: Users can see a list of their tasks with an option to view more details by selecting a specific task.
 
 How to Use  
 
