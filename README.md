@@ -3,15 +3,19 @@ Project Name: Task Manager App
 Table of Contents
 
 -Introduction
+
 -Features
+
 -How to Use
 
 
 Introduction 
+
 The Task Manager App is a React Native application designed for use on both iOS and Android devices. Users can add, edit, delete, and view their tasks through a user-friendly interface. The application integrates seamlessly with Firebase, ensuring that all data is fetched and stored in the backend whenever users interact with their tasks.
 
 
 Features
+
 The Task Manager App allows users to:
 
 Add Tasks: Users can create new tasks by entering a title and description, and then clicking the Add Task button.
@@ -23,6 +27,7 @@ Delete Tasks: Users can remove tasks by clicking the delete icon button.
 View Tasks: Users can see a list of their tasks with an option to view more details by selecting a specific task.
 
 How to Use  
+
 1. Download Expo Go: Ensure you have the Expo Go app installed on your device.
 
 2. Run the Code Locally: If you want to run the code on your local device, use the command npx expo start in your terminal. This will generate a QR code.
