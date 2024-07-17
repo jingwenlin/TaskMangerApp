@@ -32,6 +32,6 @@ How to Use
 
 2. Run the Code Locally: If you want to run the code on your local device, use the command npx expo start in your terminal. This will generate a QR code.
    
-3. Scan the QR Code: Open the Expo Go app, then use your iPhone camera to scan the QR code. You will see a prompt saying "Open in Expo Go." Click on it, and it will direct you to the Expo Go app, where you can use the Task Manager App.
+3. Scan the QR Code: Use your iPhone camera to scan the QR code. You will see a prompt saying "Open in Expo Go." Click on it, and it will direct you to the Expo Go app, where you can use the Task Manager App.
 
 Feel free to reach out through email or phone if you encounter any issues or need further assistance while using the app!
