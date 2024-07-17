@@ -1,8 +1,13 @@
 Project Name: Task Manager App
 Table of Contents
+
+
 -Introduction
+
 -Features
+
 -How to Use
+
 1. Introduction
 The Task Manager App is a React Native application designed for use on both iOS and Android devices. Users can add, edit, delete, and view their tasks through a user-friendly interface. The application integrates seamlessly with Firebase, ensuring that all data is fetched and stored in the backend whenever users interact with their tasks.
 
