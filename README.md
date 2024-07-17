@@ -1,6 +1,6 @@
 Project Name: Task Manager App
-Table of Contents
 
+Table of Contents
 
 -Introduction
 
