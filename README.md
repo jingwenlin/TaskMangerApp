@@ -20,7 +20,7 @@ The Task Manager App allows users to:
 
 - Add Tasks: Users can create new tasks by entering a title and description, and then clicking the Add Task button.
 
-- Edit Tasks: Users can update the task title and description by clicking the edit icon button. This will display the current details, which can then be modified.
+- Edit Tasks: Users can update the task title and description by clicking the edit icon button. This will display the current details, allowing users to modify the task title and description. After making changes, users can click 'Save Changes' to update the task or 'Cancel' if they decide not to make any changes.
 
 - Delete Tasks: Users can remove tasks by clicking the delete icon button.
 
