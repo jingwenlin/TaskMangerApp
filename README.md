@@ -1,4 +1,4 @@
-Project Name: Task Manager App
+Project Name: Task Manager Application 
 
 Table of Contents
 
